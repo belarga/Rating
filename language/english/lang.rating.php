@@ -8,7 +8,7 @@
  * @copyright	Copyright (c) 2009-2012, Solspace, Inc.
  * @link		http://www.solspace.com/docs/addon/c/Rating/
  * @version		3.1.1
- * @filesource	./system/expressionengine/third_party/rating/language/english
+ * @filesource	./system/expressionengine/third_party/rating/language/english/
  */
 
 $L = $lang = array(
